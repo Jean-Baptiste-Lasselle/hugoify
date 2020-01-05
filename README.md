@@ -1,0 +1,2 @@
+# hugoify
+example hugo repo
